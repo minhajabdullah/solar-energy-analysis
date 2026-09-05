@@ -1,0 +1,13 @@
+month,grid_consumption,avg_consumption_unit_rate,exported,avg_export_unit_rate
+January,755.795kWh,27.82p/kWh,1.012kWh,14.86p/kWh
+February,499.738kWh,27.82p/kWh,3.487kWh,15p/kWh
+March,269.413kWh,27.82p/kWh,49.795kWh,15p/kWh
+April,119.154kWh,24.05p/kWh,229.587kWh,15p/kWh
+May,31.403kWh,24.05p/kWh,563.598kWh,15p/kWh
+June,22.679kWh,24.05p/kWh,633.146kWh,15p/kWh
+July,6.956kWh,21.98p/kWh,652.86kWh,15p/kWh
+August,12.112kWh,21.98p/kWh,630.079kWh,15p/kWh
+September,160.123kWh,21.98p/kWh,196.093kWh,15p/kWh
+October,652.971kWh,24.01p/kWh,8.01kWh,15p/kWh
+November,1110.417kWh,19.83p/kWh,0.958kWh,15p/kWh
+December,1495.969kWh,16.2p/kWh,0.437kWh,15p/kWh
